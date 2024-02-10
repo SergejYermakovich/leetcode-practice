@@ -31,7 +31,6 @@ public class MergeSortedArrayTask {
 
     // pointers solution
     public static void merge2(int[] nums1, int m, int[] nums2, int n) {
-
         int i = m - 1;
         int j = n - 1;
         int k = nums1.length - 1;
