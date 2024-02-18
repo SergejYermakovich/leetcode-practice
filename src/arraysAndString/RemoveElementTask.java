@@ -1,7 +1,5 @@
 package arraysAndString;
 
-import java.util.Arrays;
-
 public class RemoveElementTask {
     public static void main(String[] args) {
         System.out.println(removeElement(new int[]{3, 2, 2, 3}, 3) == 2);
